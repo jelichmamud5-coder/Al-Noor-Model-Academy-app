@@ -1,0 +1,5 @@
+<resources>
+    <!-- Replace these values with your Firebase Realtime Database project values. -->
+    <string name="firebase_api_key">YOUR_FIREBASE_WEB_API_KEY</string>
+    <string name="firebase_database_url">https://YOUR_PROJECT_ID-default-rtdb.firebaseio.com</string>
+</resources>
